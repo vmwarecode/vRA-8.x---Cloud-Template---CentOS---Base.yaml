@@ -1,0 +1,1 @@
+# vRA-8.x---Cloud-Template---CentOS---Base.yaml
